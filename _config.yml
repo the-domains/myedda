@@ -1,0 +1,28 @@
+name: MyEdda
+favicon: null
+layout_spectrum: 0.6406312112230808
+typography_spectrum: 0.23455334641039371
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.980071734637022
+  lightness: 0.6426149639301002
+  saturation: 0.6609943769872189
+  rhythmicContrast: 0.2708224512171
+purpose: []
